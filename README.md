@@ -16,4 +16,4 @@
 
 WinBetaMUI 产品反馈: http://forms.office.com/r/YEzZmF2Lv9
 
-感谢支持!
+感谢支持！
