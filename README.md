@@ -10,8 +10,6 @@
 #### 反馈
 粉丝群: https://teams.live.com/l/invite/FEAiNqXRjDpEszT-gQ
 
-爱发电: https://afdian.net/u/c32a5d5a261711eea60e52540025c377
-
 邮箱: markta111@outlook.com
 
 WinBetaMUI 产品反馈: https://forms.office.com/r/YEzZmF2Lv9
