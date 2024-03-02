@@ -1,0 +1,3 @@
+[RegionalSettings]
+
+LanguageGroup=10

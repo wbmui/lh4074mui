@@ -1,0 +1,5 @@
+[RegionalSettings]
+
+MUILanguage=0409
+MUILanguage_DefaultUser=0409
+SystemLocale=0409

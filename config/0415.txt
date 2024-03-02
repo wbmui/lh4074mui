@@ -1,0 +1,5 @@
+[RegionalSettings]
+
+MUILanguage=0415
+MUILanguage_DefaultUser=0415
+SystemLocale=0415

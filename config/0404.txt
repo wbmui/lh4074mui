@@ -1,0 +1,5 @@
+[RegionalSettings]
+
+MUILanguage=0404
+MUILanguage_DefaultUser=0404
+SystemLocale=0404

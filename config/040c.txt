@@ -1,0 +1,5 @@
+[RegionalSettings]
+
+MUILanguage=040c
+MUILanguage_DefaultUser=040c
+SystemLocale=040c
