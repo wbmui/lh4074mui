@@ -7,7 +7,7 @@
 3. 打开 installer.iss 文件，去除 SignTool=winbetamui 和 SignedUninstaller=yes 这两行，然后编译 installer.iss 文件，编译完成的文件在源代码根目录下的 compiled_installer 文件夹。  
 
 #### 反馈
-产品交流群: https://teams.live.com/l/invite/FEAiNqXRjDpEszT-gQ  
+产品交流群: https://teams.live.com/l/invite/FEAmeoOdKfVGNvmNAE
 
 邮箱: 
  WinBetaUser (团队队长): markta111@outlook.com  
