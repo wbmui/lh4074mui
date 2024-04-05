@@ -7,7 +7,7 @@
 #endif
 
 #define AppId "LH4074MUI"
-#define AppVersion "15.1.17.0"
+#define AppVersion "15.1.18.0"
 #define AppPublisher "WinBetaMUI Team"
 #define AppURL "https://winbetauser.github.io/winbetamui"
 #define AppUninstallCheck \
@@ -105,15 +105,6 @@ Filename: "{sys}\rundll32.exe"; Parameters: "shell32,Control_RunDLL intl.cpl,,/f
 Filename: "{sys}\rundll32.exe"; Parameters: "shell32,Control_RunDLL intl.cpl,,/f:""{app}\0415.txt"""; WorkingDir: "{app}"; Tasks: pl
 Filename: "{sys}\rundll32.exe"; Parameters: "shell32,Control_RunDLL intl.cpl,,/f:""{app}\0419.txt"""; WorkingDir: "{app}"; Tasks: ru
 
-[UninstallDelete]
-; 解决“在运行安装程序时卸载产品后仅会删除语言文件夹里面的 *.mui 文件，不删除语言文件夹”的问题。
-; 位于安装文件夹的 setup.exe 不会删除，这个问题目前无法解决。
-Type: dirifempty; Name: "{win}\mui\fallback\0804"
-Type: dirifempty; Name: "{win}\mui\fallback\0404"
-Type: dirifempty; Name: "{win}\mui\fallback\040c"
-Type: dirifempty; Name: "{win}\mui\fallback\0415"
-Type: dirifempty; Name: "{win}\mui\fallback\0419"
-
 [UninstallRun]
 ; 删除 MUI 残留。
 Filename: "{sys}\reg.exe"; Parameters: "delete ""HKCU\Control Panel\Desktop"" /v MUILanguagePending /f"; Flags: runhidden
@@ -146,8 +137,8 @@ end;
 procedure CurPageChanged(CurPageID: Integer);
 begin
   if CurPageID = wpSelectTasks then
-    (* 将“选择安装时要执行的任务”页面的 Next 按钮上的文本改为 Install，
-    因为我去除了安装程序的“准备安装”页面。*)
+    (* 由于安装程序的“准备安装”页面已去除，
+    因此将“选择安装时要执行的任务”页面的 Next 按钮上的文本改为 Install。*)
     WizardForm.NextButton.Caption := SetupMessage(msgButtonInstall);
 end;
 
