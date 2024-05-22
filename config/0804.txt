@@ -1,5 +1,0 @@
-[RegionalSettings]
-
-MUILanguage=0804
-MUILanguage_DefaultUser=0804
-SystemLocale=0804
