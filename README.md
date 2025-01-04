@@ -1,5 +1,5 @@
 # Windows Longhorn 4074 build Multilingual User Interface Pack
-### 为您的 Windws Longhorn build 4074 添加简体中文、繁体中文及更多语言！
+### 为您的 Windpws Longhorn build 4074 添加简体中文、繁体中文及更多语言！
 
 编译方法：
 1. 从 Release 处或 Code 处（不包括 *.mui 文件）下载源代码。  
@@ -7,11 +7,11 @@
 3. 打开 installer.iss 文件，去除 SignTool=winbetamui 和 SignedUninstaller=yes 这两行，然后编译 installer.iss 文件，编译完成的文件在源代码根目录下的 compiled_installer 文件夹。  
 
 #### 反馈
-产品交流群: https://teams.live.com/l/invite/FEAmeoOdKfVGNvmNAE
+可前往 @Nicrozoft 的产品交流群反馈：teams.live.com/l/invite/FBA7VfY_z6_yTxPxQM
 
 邮箱: 
- WinBetaUser (团队队长): markta111@outlook.com  
- Nicrozoft: haha666_666@outlook.com 、[备用]haha666_1@outlook.com  
+ WinBetaUser (团队队长): markta111@outlook.com、[备用]bobday001@outlook.com  
+ Nicrozoft: haha666_666@outlook.com、[备用]haha666_1@outlook.com  
  AndyChung123: chunghuenpang@hotmail.com  
 
 感谢支持！
