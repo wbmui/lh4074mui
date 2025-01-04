@@ -1,5 +1,5 @@
 # Windows Longhorn 4074 build Multilingual User Interface Pack
-### 为您的 Windpws Longhorn build 4074 添加简体中文、繁体中文及更多语言！
+### 为您的 Windows Longhorn build 4074 添加简体中文、繁体中文及更多语言！
 
 编译方法：
 1. 从 Release 处或 Code 处（不包括 *.mui 文件）下载源代码。  
