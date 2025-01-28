@@ -9,8 +9,8 @@
 #### 反馈
 可前往 @Nicrozoft 的产品交流群反馈：teams.live.com/l/invite/FBA7VfY_z6_yTxPxQM
 
-邮箱: 
- WinBetaUser (团队队长): markta111@outlook.com、[备用]bobday001@outlook.com  
+WinBetaMUI Team 管理员邮箱（不分先后）: 
+ WinBetaUser: markta111@outlook.com、[备用]bobday001@outlook.com  
  Nicrozoft: haha666_666@outlook.com、[备用]haha666_1@outlook.com  
  AndyChung123: chunghuenpang@hotmail.com  
 
