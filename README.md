@@ -7,7 +7,7 @@
 3. 打开 installer.iss 文件，去除 SignTool=winbetamui 和 SignedUninstaller=yes 这两行，然后编译 installer.iss 文件，编译完成的文件在源代码根目录下的 compiled_installer 文件夹。
 
 #### 早期版本
-早期版本可前往 https://www.123pan.com/s/lTO8jv-mHRHA 或 https://pan.huang1111.cn/s/4evzcg 下载。
+早期版本可前往 https://www.123pan.com/s/lTO8jv-mHRHA 或 https://pan.huang1111.cn/s/4evzcg 下载（后者已不再更新文件）。
 
 #### 反馈
 可前往 @Nicrozoft 的产品交流群反馈：teams.live.com/l/invite/FBA7VfY_z6_yTxPxQM
