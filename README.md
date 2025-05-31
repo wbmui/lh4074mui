@@ -1,4 +1,4 @@
-# Windows Longhorn 4074 build MUI Pack
+# Windows Longhorn build 4074 MUI Pack
 ### 为您的 Windows Longhorn build 4074 添加简体中文、繁体中文及更多语言！
 
 编译方法：
